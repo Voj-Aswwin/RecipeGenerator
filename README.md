@@ -1,2 +1,3 @@
 # RecipeGenerator
-A Recipe Generator application built from chatGPT, langchain framework &amp; steamlit
+A Recipe Generator application powered by LLama3.1, 
+Langchain framework ; and steamlit UI
